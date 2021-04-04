@@ -1,6 +1,7 @@
 {
   "author": "Alexandre Oliveira",
   "description": "Project used for freecodecamp studying purpose",
+  "keywords": ["freecodecamp"],
   "name": "fcc-learn-npm-package-json",
   "dependencies": {
     "express": "^4.14.0"
